@@ -1,0 +1,6 @@
+[submodule "storax"]
+	path = storax
+	url = https://github.com/storax/dotfiles.git
+[submodule "binchen"]
+	path = binchen
+	url = https://github.com/redguardtoo/emacs.d.git

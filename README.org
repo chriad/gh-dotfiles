@@ -1,0 +1,6 @@
+| who?   | literate? | custom layer? | html/css themed?| full config*? |
+|--------+-----------+---------------+------------------+--------------|
+| storax |           | yes           | yes              | yes          |
+
+
+* full config: contains much more than only emacs config
