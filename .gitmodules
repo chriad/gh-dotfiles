@@ -4,3 +4,6 @@
 [submodule "binchen"]
 	path = binchen
 	url = https://github.com/redguardtoo/emacs.d.git
+[submodule "ap.el"]
+	path = ap.el
+	url = https://github.com/alphapapa/ap.el.git
