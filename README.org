@@ -1,6 +1,10 @@
-| who?   | literate? | custom layer? | html/css themed?| full config*? |
-|--------+-----------+---------------+------------------+--------------|
-| storax |           | yes           | yes              | yes          |
+Keep track of some dotfiles repositories.
+
+| who?   | literate? | helm? | straight? | custom layer? | html/css themed? | full config*? |
+|--------+-----------+-------+-----------+---------------+------------------+---------------|
+| ndw    | yes       | yes   | yes       |               |                  |               |
+| storax |           |       |           | yes           | yes              | yes           |
+|--------+-----------+-------+-----------+---------------+------------------+---------------|
 
 
 * full config: contains much more than only emacs config
