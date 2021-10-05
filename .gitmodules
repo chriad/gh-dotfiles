@@ -19,3 +19,12 @@
 [submodule "d12frosted"]
 	path = d12frosted
 	url = https://github.com/d12frosted/environment.git
+[submodule "seblemaguer"]
+	path = seblemaguer
+	url = https://github.com/seblemaguer/dotfiles
+[submodule "benmezger"]
+	path = benmezger
+	url = git@github.com:benmezger/dotfiles.git
+[submodule "ekaschalk"]
+	path = ekaschalk
+	url = https://github.com/ekaschalk/.spacemacs.d.git
