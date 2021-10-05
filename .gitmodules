@@ -28,3 +28,18 @@
 [submodule "ekaschalk"]
 	path = ekaschalk
 	url = https://github.com/ekaschalk/.spacemacs.d.git
+[submodule "bauer"]
+	path = bauer
+	url = https://github.com/matthewbauer/bauer.git
+[submodule "tiqsi-emacs"]
+	path = tiqsi-emacs
+	url = https://github.com/SerialDev/tiqsi-emacs.git
+[submodule "wasamasa/dotemacs"]
+	path = wasamasa/dotemacs
+	url = https://depp.brause.cc/dotemacs.git
+[submodule "wasamasa/dotfiles"]
+	path = wasamasa/dotfiles
+	url = https://depp.brause.cc/dotfiles.git
+[submodule "Quiescent-Emacs"]
+	path = Quiescent-Emacs
+	url = https://github.com/Quiescent/Quiescent-Emacs.git
