@@ -55,3 +55,9 @@
 [submodule "emacs-live"]
 	path = emacs-live
 	url = https://github.com/overtone/emacs-live.git
+[submodule "amar1729"]
+	path = amar1729
+	url = git@github.com:Amar1729/dotfiles.git
+[submodule "szorfein"]
+	path = szorfein
+	url = https://github.com/szorfein/dots.git
