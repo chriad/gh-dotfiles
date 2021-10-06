@@ -43,3 +43,15 @@
 [submodule "Quiescent-Emacs"]
 	path = Quiescent-Emacs
 	url = https://github.com/Quiescent/Quiescent-Emacs.git
+[submodule "epsil"]
+	path = epsil
+	url = https://github.com/epsil/dotfiles.git
+[submodule "abo-abo/oremacs"]
+	path = abo-abo/oremacs
+	url = https://github.com/abo-abo/oremacs.git
+[submodule "abo-abo/org-fu"]
+	path = abo-abo/org-fu
+	url = https://github.com/abo-abo/org-fu.git
+[submodule "emacs-live"]
+	path = emacs-live
+	url = https://github.com/overtone/emacs-live.git
