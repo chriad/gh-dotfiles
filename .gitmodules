@@ -61,3 +61,9 @@
 [submodule "szorfein"]
 	path = szorfein
 	url = https://github.com/szorfein/dots.git
+[submodule "r0man"]
+	path = r0man
+	url = https://github.com/r0man/.emacs.d.git
+[submodule "ninrod"]
+	path = ninrod
+	url = https://github.com/ninrod/dotfiles.git

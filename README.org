@@ -1,10 +1,11 @@
 Keep track of some dotfiles repositories.
 
-| who?   | literate? | helm? | straight? | custom layer? | html/css themed? | full config*? |
-|--------+-----------+-------+-----------+---------------+------------------+---------------|
-| ndw    | yes       | yes   | yes       |               |                  |               |
-| storax |           |       |           | yes           | yes              | yes           |
-|--------+-----------+-------+-----------+---------------+------------------+---------------|
+| who?     | literate? | chezmoi? | completion framework | straight? | custom layer? | html/css themed? | emacs config type | full config*? |
+|----------+-----------+----------+----------------------+-----------+---------------+------------------+-------------------+---------------|
+| ndw      | yes       |          | helm                 | yes       |               |                  |                   |               |
+| szorfein |           | yes      |                      |           |               |                  |                   |               |
+| storax   |           |          |                      |           | yes           | yes              |                   | yes           |
 
+emacs config type := {emacs, spacemacs, doom}
+completion framework := {helm}
 
-* full config: contains much more than only emacs config
