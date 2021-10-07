@@ -88,3 +88,15 @@
 [submodule "jdormit"]
 	path = jdormit
 	url = https://git.jeremydormitzer.com/jdormit/dotfiles.git
+[submodule "daviwil/emacs-from-scratch"]
+	path = daviwil/emacs-from-scratch
+	url = https://github.com/daviwil/emacs-from-scratch.git
+[submodule "daviwil/dotfiles"]
+	path = daviwil/dotfiles
+	url = https://github.com/daviwil/dotfiles.git
+[submodule "magnusmalm"]
+	path = magnusmalm
+	url = https://github.com/magnusmalm/emacsen.git
+[submodule "caisah"]
+	path = caisah
+	url = https://github.com/caisah/emacs.dz.git
