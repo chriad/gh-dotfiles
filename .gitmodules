@@ -67,3 +67,24 @@
 [submodule "ninrod"]
 	path = ninrod
 	url = https://github.com/ninrod/dotfiles.git
+[submodule "link0ff"]
+	path = link0ff
+	url = https://gitlab.com/link0ff/emacs-init.git
+[submodule "meain"]
+	path = meain
+	url = https://github.com/meain/dotfiles.git
+[submodule "zaeph"]
+	path = zaeph
+	url = https://github.com/zaeph/.emacs.d.git
+[submodule "condy0919"]
+	path = condy0919
+	url = https://github.com/condy0919/.emacs.d.git
+[submodule "codygman"]
+	path = codygman
+	url = https://git.sr.ht/~codygman/emacs-config
+[submodule "hrs"]
+	path = hrs
+	url = https://github.com/hrs/dotfiles.git
+[submodule "jdormit"]
+	path = jdormit
+	url = https://git.jeremydormitzer.com/jdormit/dotfiles.git
