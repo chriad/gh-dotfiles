@@ -148,3 +148,12 @@
 [submodule "robphoenix"]
 	path = robphoenix
 	url = https://github.com/robphoenix/dotfiles.git
+[submodule "lazycat-emacs"]
+	path = lazycat-emacs
+	url = https://github.com/manateelazycat/lazycat-emacs.git
+[submodule "phundrak"]
+	path = phundrak
+	url = https://labs.phundrak.com/phundrak/dotfiles.git
+[submodule "freetonik"]
+	path = freetonik
+	url = https://github.com/freetonik/emacs-dotfiles.git
