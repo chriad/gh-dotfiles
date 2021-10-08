@@ -133,3 +133,9 @@
 [submodule "aaronbieber"]
 	path = aaronbieber
 	url = https://github.com/aaronbieber/dotfiles.git
+[submodule "jwiegley"]
+	path = jwiegley
+	url = https://github.com/jwiegley/dot-emacs
+[submodule "mattduck"]
+	path = mattduck
+	url = https://github.com/mattduck/dotfiles.git
