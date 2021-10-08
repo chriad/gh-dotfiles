@@ -4,6 +4,8 @@ Keep track of some dotfiles repositories.
 |----------+-----------+----------+----------------------+-----------+---------------+------------------+-------------------+---------------|
 | ndw      | yes       |          | helm                 | yes       |               |                  |                   |               |
 | szorfein |           | yes      |                      |           |               |                  |                   |               |
+| mrvdb    | yes       |          |                      |           |               |                  |                   |               |
+|          |           |          |                      |           |               |                  |                   |               |
 | storax   |           |          |                      |           | yes           | yes              |                   | yes           |
 
 emacs config type := {emacs, spacemacs, doom}

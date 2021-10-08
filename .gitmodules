@@ -100,3 +100,6 @@
 [submodule "caisah"]
 	path = caisah
 	url = https://github.com/caisah/emacs.dz.git
+[submodule "mrvdb"]
+	path = mrvdb
+	url = https://github.com/mrvdb/emacs-config.git
