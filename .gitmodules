@@ -139,3 +139,12 @@
 [submodule "mattduck"]
 	path = mattduck
 	url = https://github.com/mattduck/dotfiles.git
+[submodule "twpayne"]
+	path = twpayne
+	url = https://github.com/twpayne/dotfiles.git
+[submodule "nosami"]
+	path = nosami
+	url = https://github.com/nosami/configs.git
+[submodule "robphoenix"]
+	path = robphoenix
+	url = https://github.com/robphoenix/dotfiles.git
