@@ -118,3 +118,18 @@
 [submodule "bogdanp"]
 	path = bogdanp
 	url = https://github.com/Bogdanp/.emacs.d.git
+[submodule "cadadr"]
+	path = cadadr
+	url = https://github.com/cadadr/configuration.git
+[submodule "alexkehayias"]
+	path = alexkehayias
+	url = https://github.com/alexkehayias/emacs.d.git
+[submodule "peel"]
+	path = peel
+	url = https://github.com/peel/dotfiles.git
+[submodule "jonatack"]
+	path = jonatack
+	url = https://github.com/jonatack/dotfiles.git
+[submodule "aaronbieber"]
+	path = aaronbieber
+	url = https://github.com/aaronbieber/dotfiles.git
