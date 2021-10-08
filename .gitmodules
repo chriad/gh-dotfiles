@@ -112,3 +112,9 @@
 [submodule "arecker"]
 	path = arecker
 	url = https://github.com/arecker/emacs.d.git
+[submodule "dustinlacewell"]
+	path = dustinlacewell
+	url = https://github.com/dustinlacewell/dotfiles.git
+[submodule "bogdanp"]
+	path = bogdanp
+	url = https://github.com/Bogdanp/.emacs.d.git
