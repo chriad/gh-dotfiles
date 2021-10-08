@@ -157,3 +157,15 @@
 [submodule "freetonik"]
 	path = freetonik
 	url = https://github.com/freetonik/emacs-dotfiles.git
+[submodule "zilong"]
+	path = zilong
+	url = https://github.com/zilongshanren/spacemacs-private.git
+[submodule "MatthewZMD"]
+	path = MatthewZMD
+	url = https://github.com/MatthewZMD/.emacs.d.git
+[submodule "skeeto"]
+	path = skeeto
+	url = https://github.com/skeeto/.emacs.d.git
+[submodule "rememberYou"]
+	path = rememberYou
+	url = https://github.com/rememberYou/dotfiles.git
