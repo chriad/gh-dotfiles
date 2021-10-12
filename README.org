@@ -1,12 +1,14 @@
 Keep track of some dotfiles repositories.
 
-| who?     | literate? | chezmoi? | completion framework | straight? | custom layer? | html/css themed? | emacs config type | full config*? |
-|----------+-----------+----------+----------------------+-----------+---------------+------------------+-------------------+---------------|
-| ndw      | yes       |          | helm                 | yes       |               |                  |                   |               |
-| szorfein |           | yes      |                      |           |               |                  |                   |               |
-| mrvdb    | yes       |          |                      |           |               |                  |                   |               |
-| a13      | yes       |          |                      |           |               | yes              |                   |               |
-| storax   |           |          |                      |           | yes           | yes              |                   | yes           |
+| who?             | literate? | chezmoi? | completion framework | straight? | custom layer? | html/css themed?                           | emacs config type | full config*? |
+|------------------+-----------+----------+----------------------+-----------+---------------+--------------------------------------------+-------------------+---------------|
+| ndw              | yes       |          | helm                 | yes       |               |                                            |                   |               |
+| szorfein         |           | yes      |                      |           |               |                                            |                   |               |
+| mrvdb            | yes       |          |                      |           |               |                                            |                   |               |
+| a13              | yes       |          |                      |           |               | yes                                        |                   |               |
+| alhassy          | yes       |          |                      |           |               | yes [ https://alhassy.github.io/emacs.d/ ] |                   |               |
+| daviwil/dotfiles | yes       |          |                      |           |               | yes [ https://config.daviwil.com/emacs ]   |                   |               |
+| storax           |           |          |                      |           | yes           | yes                                        |                   | yes           |
 
 emacs config type := {emacs, spacemacs, doom}
 completion framework := {helm}
