@@ -169,3 +169,6 @@
 [submodule "rememberYou"]
 	path = rememberYou
 	url = https://github.com/rememberYou/dotfiles.git
+[submodule "mhaffner"]
+	path = mhaffner
+	url = https://github.com/mhaffner/dotfiles.git
