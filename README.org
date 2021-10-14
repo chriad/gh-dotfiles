@@ -19,4 +19,4 @@ completion framework := {helm}
 Use:
 
 git submodule update --init wasamasa/dotemacs
-
+To fetch new stuff, just go to subrepo and: git fetch
