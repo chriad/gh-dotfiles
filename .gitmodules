@@ -172,3 +172,6 @@
 [submodule "mhaffner"]
 	path = mhaffner
 	url = https://github.com/mhaffner/dotfiles.git
+[submodule "rasendubi"]
+	path = rasendubi
+	url = https://github.com/rasendubi/dotfiles.git
